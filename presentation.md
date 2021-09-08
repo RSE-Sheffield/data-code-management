@@ -3,6 +3,10 @@
 Robert Turner, University of Sheffield RSE Team
 September, 2021
 
+# Acknowledgements
+
+Contains elements from [Reproducible Research Data and Project Management in R](https://github.com/annakrystalli/rrresearchACCE20), by Anna Krystalli. 
+
 # About me
 
 ![Bob Turner](images/bobicorn.jpg){ height=256px }
@@ -41,3 +45,4 @@ What are the characteristics of well engineered research software?
 * Anticipate data products as part of your thesis outputs.
 * Think about what technologies to use.
 
+# Own your data
