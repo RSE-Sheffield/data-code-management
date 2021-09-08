@@ -60,7 +60,9 @@ Take initiative & responsibility. Think long term.
 
 > Do you agree?
 
-# **excel: `read/entry only`**
+# Excel
+
+`read/entry only`
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> <a href="https://twitter.com/tpoi">@tpoi</a> excel is fine for data entry. Just save in plain text format like csv. Some additional tips: <a href="https://t.co/8fUv9PyVjC">pic.twitter.com/8fUv9PyVjC</a></p>&mdash; Jaime Ashander (@jaimedash) <a href="https://twitter.com/jaimedash/status/556113131932381185">January 16, 2015</a></blockquote>
 
