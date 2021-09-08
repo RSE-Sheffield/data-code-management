@@ -15,6 +15,9 @@ Mix of software engineering and research experience.
 
 13 RSEs, 35 projects / year worth ~£11m total
 
+# In this session...
+
+
 # Discussion
 
 What are the characteristics of well engineered research software?
@@ -27,4 +30,14 @@ What are the characteristics of well engineered research software?
 * Controlled execution environment
 * Documentation
 * Parameterised
+
+<https://joss.readthedocs.io/en/latest/review_checklist.html>
+
+# Data Management
+
+# Data Management Plan
+
+* Start early. [Make an RDM](https://www.sheffield.ac.uk/library/rdm/dmp) plan before collecting data.
+* Anticipate data products as part of your thesis outputs.
+* Think about what technologies to use.
 
