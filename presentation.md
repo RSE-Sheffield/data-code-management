@@ -104,7 +104,7 @@ Have a look at the Data Carpentry [**SQL for Ecology** lesson](http://www.dataca
 
 # good
 
-<img src="hhttps://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/good_xl.png" width=600px>
+<img src="https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/good_xl.png" width=600px>
 
 # ok
 
