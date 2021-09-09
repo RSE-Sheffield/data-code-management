@@ -137,37 +137,28 @@ Use good null values, missing values are a fact of life:
 
 # Data security
 
- **Raw data are sacrosanct**
+**Raw data are sacrosanct**
 
 # Give yourself less rope
 
-.pull-left[
+![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/jon-moore-399469-unsplash.jpg)
+
 - It's a good idea to **[revoke your own write permission](https://kb.iu.edu/d/abdb) to the raw data file**.
-
 - Then you **can't accidentally edit it**.
-
 - It also makes it **harder to do manual edits** in a moment of weakness, when you know you should **just add a line to your data cleaning script**.
-]
 
-.pull-right[
-![](assets/jon-moore-399469-unsplash.jpg)
-_Photo by Jon Moore on Unsplash_
-]
+*Photo by Jon Moore on Unsplash*
 
 # Know your main copies 
 
-.pull-left[
+<img src="https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/abstract-art-background-270456.jpg" width=400px> 
+
 - identify the `main` copy of files
 - keep it safe and and accessible
 - consider version control
 - consider centralising
-]
 
-.pull-right[
-
-<img src="assets/abstract-art-background-270456.jpg" width=400px> 
-_source: Pexels CC0_
-]
+*source: Pexels CC0*
 
 # Avoid catastrophe
 
