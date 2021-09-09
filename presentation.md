@@ -1,4 +1,4 @@
-# Computing tips for awesome research
+# Computing tips for awesome research and an easy life
 
 Robert Turner, University of Sheffield RSE Team
 September, 2021
