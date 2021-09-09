@@ -96,6 +96,8 @@ Have a look at the Data Carpentry [**SQL for Ecology** lesson](http://www.dataca
 
 ![Robot reading](images/robot-reading.jpg){ height=256px }
 
+Andrea De Santis, <unsplash.com>
+
 # bad
 
 <img src="https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/bad_xl1.png" width=600px>
