@@ -126,3 +126,72 @@ Use good null values, missing values are a fact of life:
 * **`NA`** or **`NULL`** are also good options
 * **NEVER use `0`**. Avoid numbers like **`-999`**
 * Don’t make up your own code for missing values
+
+
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> don&#39;t, not even with a barge pole, not for one second, touch or otherwise edit the raw data files. Do any manipulations in script</p>&mdash; Gavin Simpson (@ucfagls) <a href="https://twitter.com/ucfagls/status/556107371634634755">January 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> <a href="https://twitter.com/srsupp">@srsupp</a> Keep one or a few good master data files (per data collection of interest), and code your formatting with good annotation.</p>&mdash; Desiree Narango (@DLNarango) <a href="https://twitter.com/DLNarango/status/556128407445323778">January 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Data security
+
+ **Raw data are sacrosanct**
+
+# Give yourself less rope
+
+.pull-left[
+- It's a good idea to **[revoke your own write permission](https://kb.iu.edu/d/abdb) to the raw data file**.
+
+- Then you **can't accidentally edit it**.
+
+- It also makes it **harder to do manual edits** in a moment of weakness, when you know you should **just add a line to your data cleaning script**.
+]
+
+.pull-right[
+![](assets/jon-moore-399469-unsplash.jpg)
+_Photo by Jon Moore on Unsplash_
+]
+
+# Know your main copies 
+
+.pull-left[
+- identify the `main` copy of files
+- keep it safe and and accessible
+- consider version control
+- consider centralising
+]
+
+.pull-right[
+
+<img src="assets/abstract-art-background-270456.jpg" width=400px> 
+_source: Pexels CC0_
+]
+
+# Avoid catastrophe
+
+# Backup: on disk
+
+- consider using backup software like [Time Machine](https://support.apple.com/en-gb/HT201250) (mac) or [File History](http://www.thundercloud.net/infoave/new/windows-10-has-a-time-machine/) (Windows 10)
+
+# Backup: in the cloud
+
+- dropbox, googledrive etc.
+- if [installed](https://tools.google.com/dlpage/drive) on your system, can programmatically access them through `R`
+- some version control
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> Back it up</p>&mdash; Ben Bond-Lamberty (@BenBondLamberty) <a href="https://twitter.com/BenBondLamberty/status/556120946722222080">January 16, 2015</a></blockquote>
+
+# Backup: the Open Science Framework [osf.io](https://osf.io/)
+
+- version controlled
+- easily shareable
+- works with other apps (eg googledrive, github)
+- work on an interface with R ([OSFr](https://github.com/chartgerink/osfr)) is in progress. See more [here](https://youtu.be/cnE3AcdeGVY)
+
+# Backup: Github
+
+- most solid version control.
+- keep everything in one project folder.
+- Can be problematic with really large files.
