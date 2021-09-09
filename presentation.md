@@ -94,6 +94,8 @@ Have a look at the Data Carpentry [**SQL for Ecology** lesson](http://www.dataca
 
 # Ensure data is machine readable
 
+![Robot reading](images/robot-reading.jpg){ height=256px }
+
 # bad
 
 <img src="https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/bad_xl1.png" width=600px>
