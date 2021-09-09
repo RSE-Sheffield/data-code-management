@@ -1,4 +1,4 @@
-# Managing code and data for better research
+# Computing tips for awesome research
 
 Robert Turner, University of Sheffield RSE Team
 September, 2021
