@@ -122,7 +122,7 @@ Andrea De Santis, <unsplash.com>
 
 Use good null values, missing values are a fact of life:
 
-- Usually, best solution is to **leave blank**
-- **`NA`** or **`NULL`** are also good options
-- **NEVER use `0`**. Avoid numbers like **`-999`**
-- Don’t make up your own code for missing values
+* Usually, best solution is to **leave blank**
+* **`NA`** or **`NULL`** are also good options
+* **NEVER use `0`**. Avoid numbers like **`-999`**
+* Don’t make up your own code for missing values
