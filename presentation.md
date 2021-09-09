@@ -3,6 +3,9 @@
 Robert Turner, University of Sheffield RSE Team
 September, 2021
 
+<style>
+    .reveal h1 { font-size: 2em; }
+</style>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Acknowledgements
