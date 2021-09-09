@@ -88,7 +88,7 @@ Have a look at the Data Carpentry [**SQL for Ecology** lesson](http://www.dataca
 * **`.tsv`**: *tab* separated values.
 * **`.txt`**: no formatting specified.
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> It has to be interoperability/openness - can I read your data with whatever I use, without having to convert it?</p>&mdash; Paul Swaddle (@paul_swaddle) <a href="https://twitter.com/paul_swaddle/status/556148166270406656">January 16, 2015</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> It has to be interoperability/openness - can I read your data with whatever I use, without having to convert it?</p>&mdash; Paul Swaddle (@paul_swaddle) <a href="https://twitter.com/paul_swaddle/status/556148166270406656">January 16, 2015</a></blockquote>
 
 **more unusual formats will need instructions on use.**
 
@@ -102,7 +102,7 @@ Have a look at the Data Carpentry [**SQL for Ecology** lesson](http://www.dataca
 
 <img src="https://github.com/annakrystalli/rrresearchACCE20/blob/master/slides/assets/img/bad_xl2.png" width=600px>
 
-# good 
+# good
 
 <img src="https://github.com/annakrystalli/rrresearchACCE20/blob/master/slides/assets/img/good_xl.png" width=600px>
 
@@ -110,5 +110,5 @@ Have a look at the Data Carpentry [**SQL for Ecology** lesson](http://www.dataca
 
 <img src="https://github.com/annakrystalli/rrresearchACCE20/blob/master/slides/assets/img/ok_xl.png" width=600px>
 
-- could help data entry
-- `.csv` or `.tsv` copy would need to be saved.
+* could help data entry
+* `.csv` or `.tsv` copy would need to be saved.
