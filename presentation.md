@@ -7,7 +7,7 @@ September, 2021
 
 # Acknowledgements
 
-Contains elements from [Reproducible Research Data and Project Management in R](https://github.com/annakrystalli/rrresearchACCE20), by Anna Krystalli. 
+Contains elements from [Reproducible Research Data and Project Management in R](https://github.com/annakrystalli/rrresearchACCE20), by Anna Krystalli and from [Methods in Research Software Engineering](https://github.com/davidwilby/ResearchSoftwareMethods) by David Wilby.
 
 # About me
 
