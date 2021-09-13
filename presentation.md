@@ -1,4 +1,4 @@
-# Computing tips for awesome research and an easy life
+# Data and file management
 
 Robert Turner, University of Sheffield RSE Team
 September, 2021
@@ -30,22 +30,6 @@ Focusses on what to do, not how to do it.
 
 # In this session...
 
-
-# Discussion
-
-> What are the characteristics of well engineered research software?
-
-*Link to interactive doc*
-
-# "Good" research software
-
-* Version control
-* Automated tests
-* Controlled execution environment
-* Documentation
-* Parameterised
-
-<https://joss.readthedocs.io/en/latest/review_checklist.html>
 
 # Data Management
 
