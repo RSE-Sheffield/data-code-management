@@ -343,31 +343,31 @@ df <- read.csv(paste("variable", res, month, sep ="_"))
 90_limma-model-term-name-fiasco-second-voom.png
 ~~~
 
-# **Recap: Human readable**
+# Recap: Human readable
 
-- $\rightarrow$ **Easy to figure out what the heck something is, based on its name**
+- **Easy to figure out what the heck something is, based on its name**
 
 # Play well with default ordering
 
-- **Put something numeric first**
-- **Use the ISO 8601 standard for dates**
-- **Left pad other numbers with zeros**
+- Put something numeric first
+- Use the ISO 8601 standard for dates
+- Left pad other numbers with zeros
 
-# Examples
+# Examples: **Chronological order** and **Logical order**
 
-# Chronological order:
+# **Chronological order:** Order by date / time
 
 ![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/chronological_order.png)
+
+# Dates
+
+![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/iso_8601.tiff)
 
 # Dates
 
 Use the **ISO 8601** standard for dates: `YYYY-MM-DD`
 
 ![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/chronological_order.png)
-
-#
-
-![iso_psa](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/iso_8601.tiff)
 
 # **Logical order:** Put something numeric first
 
@@ -389,11 +389,11 @@ Use the **ISO 8601** standard for dates: `YYYY-MM-DD`
 # Recap: Play well with default ordering
 
 - Put something numeric first
-- Use the ISO 8601 standard for dates
+- Use the **ISO 8601** standard for dates
 - Left pad other numbers with zeros
 
 
-# **Recap: Three principles for (file) names**
+# Recap: Three principles for (file) names
 
 1. Machine readable
 2. Human readable
