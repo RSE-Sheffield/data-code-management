@@ -139,7 +139,7 @@ Use good null values, missing values are a fact of life:
 
 # Give yourself less rope
 
-![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/jon-moore-399469-unsplash.jpg) { height=256px }
+![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/jon-moore-399469-unsplash.jpg){ height=256px }
 
 - It's a good idea to **[revoke your own write permission](https://kb.iu.edu/d/abdb) to the raw data file**.
 - Then you **can't accidentally edit it**.
@@ -149,7 +149,7 @@ Photo by Jon Moore, unsplash.com
 
 # Know your main copies 
 
-![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/abstract-art-background-270456.jpg) { height=256px }
+![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/abstract-art-background-270456.jpg){ height=256px }
 
 - identify the `main` copy of files
 - keep it safe and and accessible
