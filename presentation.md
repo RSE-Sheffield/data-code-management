@@ -310,7 +310,7 @@ df <- read.csv(paste("variable", res, month, sep ="_"))
 
 # Example: Which set of file(name)s do you want at 3 a.m. before a deadline?
 
-![](assets/img/human_readable_not_options.png)
+![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/human_readable_not_options.png)
 
 # Embrace the slug
 
