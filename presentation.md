@@ -249,11 +249,11 @@ fig02_histogram-talk-attendance.png
 In the following:
 
 ```{shell}
-ls -lh *Plasmid*.csv
+ls -lh *Plasmid*
 ```
 
 ```{shell}
-*Plasmid*.txt
+*Plasmid*
 ```
 
 is a **glob**.
