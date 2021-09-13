@@ -158,7 +158,9 @@ Photo by Jon Moore, unsplash.com
 
 *source: Pexels CC0*
 
-# Avoid catastrophe
+# How to avoid catastrophes
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> Back it up</p>&mdash; Ben Bond-Lamberty (@BenBondLamberty) <a href="https://twitter.com/BenBondLamberty/status/556120946722222080">January 16, 2015</a></blockquote>
 
 # Backup: on disk
 
@@ -170,14 +172,11 @@ Photo by Jon Moore, unsplash.com
 - if [installed](https://tools.google.com/dlpage/drive) on your system, can programmatically access them through `R`
 - some version control
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> Back it up</p>&mdash; Ben Bond-Lamberty (@BenBondLamberty) <a href="https://twitter.com/BenBondLamberty/status/556120946722222080">January 16, 2015</a></blockquote>
-
 # Backup: the Open Science Framework [osf.io](https://osf.io/)
 
 - version controlled
 - easily shareable
 - works with other apps (eg googledrive, github)
-- work on an interface with R ([OSFr](https://github.com/chartgerink/osfr)) is in progress. See more [here](https://youtu.be/cnE3AcdeGVY)
 
 # Backup: Github
 
