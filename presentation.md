@@ -24,12 +24,12 @@ Mix of software engineering and research experience.
 
 13 RSEs, 35 projects / year worth ~£11m total
 
-# This presentation is flawed
-
-Focusses on what to do, not how to do it.
-
 # In this session...
 
+Practical advice on:
+
+* Data management
+* File naming
 
 # Data Management
 
