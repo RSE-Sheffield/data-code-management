@@ -249,10 +249,10 @@ fig02_histogram-talk-attendance.png
 In the following:
 
 ```{shell}
-ls -lh *.txt
+ls -lh *plasmid*.txt
 ```
 
-`*.txt` is a **glob**.
+`*plasmid*.txt` is a **glob**.
 
 # Excerpt of complete file listing
 
@@ -265,10 +265,6 @@ ls -lh *.txt
 # Search using Mac OS Finder search facilities
 
 ![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/plasmid_mac_os_search.png)
-
-# Search using regex in `R`
-
-![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/plasmid_regex.png)
 
 # Delimit information with punctuation
 
