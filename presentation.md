@@ -97,7 +97,7 @@ Have a look at the Data Carpentry [**SQL for Ecology** lesson](http://www.dataca
 
 ![](images/robot-reading.jpg){ height=256px }
 
-Andrea De Santis, <unsplash.com>
+Andrea De Santis, unsplash.com
 
 # bad
 
@@ -127,13 +127,11 @@ Use good null values, missing values are a fact of life:
 * **NEVER use `0`**. Avoid numbers like **`-999`**
 * Don’t make up your own code for missing values
 
-
+#
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> don&#39;t, not even with a barge pole, not for one second, touch or otherwise edit the raw data files. Do any manipulations in script</p>&mdash; Gavin Simpson (@ucfagls) <a href="https://twitter.com/ucfagls/status/556107371634634755">January 16, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> <a href="https://twitter.com/srsupp">@srsupp</a> Keep one or a few good master data files (per data collection of interest), and code your formatting with good annotation.</p>&mdash; Desiree Narango (@DLNarango) <a href="https://twitter.com/DLNarango/status/556128407445323778">January 16, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Data security
 
@@ -141,17 +139,17 @@ Use good null values, missing values are a fact of life:
 
 # Give yourself less rope
 
-![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/jon-moore-399469-unsplash.jpg)
+![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/jon-moore-399469-unsplash.jpg) { height=256px }
 
 - It's a good idea to **[revoke your own write permission](https://kb.iu.edu/d/abdb) to the raw data file**.
 - Then you **can't accidentally edit it**.
 - It also makes it **harder to do manual edits** in a moment of weakness, when you know you should **just add a line to your data cleaning script**.
 
-*Photo by Jon Moore on Unsplash*
+Photo by Jon Moore, unsplash.com
 
 # Know your main copies 
 
-<img src="https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/abstract-art-background-270456.jpg" width=400px> 
+![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/abstract-art-background-270456.jpg) { height=256px }
 
 - identify the `main` copy of files
 - keep it safe and and accessible
