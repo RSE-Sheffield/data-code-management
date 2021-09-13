@@ -361,6 +361,8 @@ Use the **ISO 8601** standard for dates: `YYYY-MM-DD`
 
 ![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/chronological_order.png)
 
+#
+
 ![iso_psa](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/iso_8601.tiff)
 
 # **Logical order:** Put something numeric first
