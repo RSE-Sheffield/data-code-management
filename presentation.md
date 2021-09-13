@@ -310,7 +310,6 @@ df <- read.csv(paste("variable", res, month, sep ="_"))
 # Human readable
 
 - Name contains info on content
-- Connects to concept of a [**slug**](https://en.wikipedia.org/wiki/Semantic_URL#Slug) from semantic URLs
 
 # Example: Which set of file(name)s do you want at 3 a.m. before a deadline?
 
@@ -322,7 +321,7 @@ df <- read.csv(paste("variable", res, month, sep ="_"))
 
 # Use slugs to link inputs, scripts & outputs
 
-# The scripts
+## The scripts
 
 ~~~
 01_marshal-data.r
@@ -332,7 +331,7 @@ df <- read.csv(paste("variable", res, month, sep ="_"))
 90_limma-model-term-name-fiasco.r
 ~~~
 
-# The figures left behind
+## The figures left behind
 
 ~~~
 02_pre-dea-filtering-preDE-filtering.png
