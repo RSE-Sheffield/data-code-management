@@ -141,21 +141,21 @@ Use good null values, missing values are a fact of life:
 
 ![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/jon-moore-399469-unsplash.jpg){ height=256px }
 
+*Photo by Jon Moore, unsplash.com*
+
 - It's a good idea to **[revoke your own write permission](https://kb.iu.edu/d/abdb) to the raw data file**. Then you **can't accidentally edit it**.
 - It also makes it **harder to do manual edits** in a moment of weakness, when you know you should **just add a line to your data cleaning script**.
-
-Photo by Jon Moore, unsplash.com
 
 # Know your main copies 
 
 ![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/abstract-art-background-270456.jpg){ height=256px }
 
+*Photo: Pexels CC0*
+
 - identify the `main` copy of files
 - keep it safe and and accessible
 - consider version control
 - consider centralising
-
-*source: Pexels CC0*
 
 # How to avoid catastrophes
 
