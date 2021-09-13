@@ -227,7 +227,7 @@ fig02_histogram-talk-attendance.png
 1986-01-28_raw-data-from-challenger-o-rings.txt
 ~~~
 
-# Question?
+# Question
 
 > What makes a good file name?
 
