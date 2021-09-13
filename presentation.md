@@ -195,10 +195,6 @@ Use good null values, missing values are a fact of life:
 
 ![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/files_messy_tidy.png)
 
-# Question?
-
-> What makes a good file name?
-
 # **File organization** and **naming** is a mighty weapon against chaos
 
 - Make a file's **name** and **location** ***VERY INFORMATIVE*** about:
@@ -207,10 +203,6 @@ Use good null values, missing values are a fact of life:
     - how it relates to other things
 
 - The more things are **self-explanatory**, the better.
-
-# Names matter
-
-![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/cheers.png)
 
 # What works, what doesn't?
 
@@ -234,6 +226,10 @@ fig02_histogram-talk-attendance.png
 1986-01-28_raw-data-from-challenger-o-rings.txt
 ~~~
 
+# Question?
+
+> What makes a good file name?
+
 # Three principles for good (file) names
 
 1. Machine readable
@@ -249,6 +245,14 @@ fig02_histogram-talk-attendance.png
   - Deliberate use of delimiters
 
 # Filtering and search through [Globbing](http://searchsecurity.techtarget.com/definition/globbing)
+
+In the following:
+
+```{shell}
+ls -lh *.txt
+```
+
+`*.txt` is a **glob**.
 
 # Excerpt of complete file listing
 
@@ -290,7 +294,7 @@ write.csv(df, paste("variable", res, month, sep ="_"))
 df <- read.csv(paste("variable", res, month, sep ="_"))
 ```
 
-# **Recap: machine readable**
+# Recap: machine readable
 
 - Easy to search for files later
 - Easy to filter file lists based on names
