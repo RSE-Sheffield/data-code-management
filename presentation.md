@@ -148,7 +148,7 @@ Use good null values, missing values are a fact of life:
 
 # Know your main copies 
 
-![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/abstract-art-background-270456.jpg){ height=256px }
+![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/abstract-art-background-270456.jpg){ height=150px }
 
 *Photo: Pexels CC0*
 
