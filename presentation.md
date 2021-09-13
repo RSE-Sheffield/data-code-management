@@ -195,7 +195,9 @@ Use good null values, missing values are a fact of life:
 
 ![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/files_messy_tidy.png)
 
-# **Strategy against chaos**
+# Question?
+
+> What makes a good file name?
 
 # **File organization** and **naming** is a mighty weapon against chaos
 
@@ -205,8 +207,6 @@ Use good null values, missing values are a fact of life:
     - how it relates to other things
 
 - The more things are **self-explanatory**, the better.
-
-# File naming
 
 # Names matter
 
