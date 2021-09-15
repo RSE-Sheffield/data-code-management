@@ -1,3 +1,5 @@
+<!--MAJOR SECTION-->
+
 # Data and file management in practise
 
 Robert Turner, University of Sheffield RSE Team
@@ -30,6 +32,8 @@ Practical advice on:
 
 * Data management
 * File naming
+
+<!--MAJOR SECTION-->
 
 # Data Management
 
@@ -166,6 +170,9 @@ Use good null values, missing values are a fact of life:
 - most solid version control.
 - keep everything in one project folder.
 - Can be problematic with really large files.
+
+
+<!--MAJOR SECTION-->
 
 # Good File Naming
 
@@ -384,3 +391,11 @@ Use the **ISO 8601** standard for dates: `YYYY-MM-DD`
 3. Play well with default ordering
 
 **Go forth and use awesome file names :)**
+
+<!--MAJOR SECTION-->
+
+# "Projects"
+
+<!--MAJOR SECTION-->
+
+# Summary
