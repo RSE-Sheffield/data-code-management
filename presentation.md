@@ -86,6 +86,8 @@ But good for data viewing / entry, sometimes, perhaps...
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> it also prevents a lot of different bad practices. It is possible to do some of this in Excel. <a href="https://twitter.com/tpoi">@tpoi</a></p>&mdash; Ethan White (@ethanwhite) <a href="https://twitter.com/ethanwhite/status/556119826582605824">January 16, 2015</a></blockquote>
 
+# Signposting
+
 Have a look at the Carpentries [Databases and SQL lesson](https://swcarpentry.github.io/sql-novice-survey/) or [SQL for Ecology lesson](http://www.datacarpentry.org/sql-ecology-lesson/).
 
 # Data formats
