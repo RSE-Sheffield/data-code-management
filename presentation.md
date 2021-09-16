@@ -51,6 +51,10 @@ Practical advice on:
 * Anticipate data products as part of your thesis outputs.
 * Think about what technologies to use.
 
+# It's OK to ask for help
+
+Some years ago, Tom Webb asked for advice on Twitter. Some of the resulting conversation is included in this presentation...
+
 # Own your data
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Act as though every short term study will become a long term one <a href="https://twitter.com/tomjwebb?ref_src=twsrc%5Etfw">@tomjwebb</a>. Needs to be reproducible in 3, 20, 100 yrs</p>&mdash; Oceans Initiative (@oceansresearch) <a href="https://twitter.com/oceansresearch/status/556107891610894337?ref_src=twsrc%5Etfw">January 16, 2015</a></blockquote>
