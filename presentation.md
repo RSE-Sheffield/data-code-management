@@ -458,7 +458,7 @@ analysis/
 Good to include:
 
 - Python `requirements.txt`, `environment.yml` etc.
-- Matlab loads of GUI-generated `xml`?
+- Matlab `.prj` file (`xml`)
 - R `renv.lock`
 
 # Signposting
