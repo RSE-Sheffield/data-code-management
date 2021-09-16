@@ -3,7 +3,7 @@
 Robert Turner, University of Sheffield RSE Team
 September, 2021
 
-<title>Data and file management in practise</title>
+<title>Data and code management in practise</title>
 
 <style>
     .reveal h1 { font-size: 2em; }
@@ -12,7 +12,7 @@ September, 2021
 
 # Acknowledgements
 
-Heavily based on [Reproducible Research Data and Project Management in R](https://github.com/annakrystalli/rrresearchACCE20), by Anna Krystalli and [Methods in Research Software Engineering](https://github.com/davidwilby/ResearchSoftwareMethods) by David Wilby.
+Heavily based on [Reproducible Research Data and Project Management in R](https://github.com/annakrystalli/rrresearchACCE20) by Anna Krystalli, [naming things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf) by Jenny Bryan and [Methods in Research Software Engineering](https://github.com/davidwilby/ResearchSoftwareMethods) by David Wilby.
 
 # About me
 
@@ -26,12 +26,16 @@ Mix of software engineering and research experience.
 
 13 RSEs, 35 projects / year worth ~£11m total
 
+# Motivation
+
 # In this session...
 
 Practical advice on:
 
-* Data management
+* Data file management
 * File naming
+* "Project" folders
+* Metadata
 
 # About you
 
