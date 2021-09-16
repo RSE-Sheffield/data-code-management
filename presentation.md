@@ -74,7 +74,7 @@ Take initiative & responsibility. Think long term.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">THRILLED by this announcement by the Human Gene Nomenclature Committee. <a href="https://t.co/BqLIOMm69d">pic.twitter.com/BqLIOMm69d</a></p>&mdash; Janna Hutz (@jannahutz) <a href="https://twitter.com/jannahutz/status/1290666010228514824?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# 
+#
 
 But good for data viewing / entry, sometimes, perhaps...
 
@@ -194,7 +194,6 @@ Use good null values, missing values are a fact of life:
 - most solid version control.
 - keep everything in one project folder.
 - Can be problematic with really large files.
-
 
 <!--MAJOR SECTION-->
 
@@ -485,6 +484,10 @@ Don't write your own dependency management.
 
 - ...of your programming language.
 - ...of your research area.
+
+# Metadata
+
+
 
 # Signposting
 
