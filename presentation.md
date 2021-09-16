@@ -424,7 +424,7 @@ myproject/
 |
 ├── 02_scripts/
 |
-├── 03_charts/
+├── 03_figures/
 |
 ├── 04_paper/
 |
