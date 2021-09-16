@@ -389,7 +389,6 @@ Use the **ISO 8601** standard for dates: `YYYY-MM-DD`
 - Use the **ISO 8601** standard for dates
 - Left pad other numbers with zeros
 
-
 # Recap: Three principles for (file) names
 
 1. Machine readable
@@ -453,6 +452,14 @@ analysis/
     ├── template.docx   # used to style the output of the paper.Rmd
     └── template.Rmd
 ```
+
+# Execution environment
+
+Good to include:
+
+- Python `requirements.txt`, `environment.yml` etc.
+- Matlab loads of GUI-generated `xml`?
+- R `renv.lock`
 
 # Signposting
 
