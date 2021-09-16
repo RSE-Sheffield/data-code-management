@@ -453,13 +453,15 @@ analysis/
     └── template.Rmd
 ```
 
-# Execution environment
+# Dependency Management
 
 Good to include:
 
 - Python `requirements.txt`, `environment.yml` etc.
 - Matlab `.prj` file (`xml`)
-- R `renv.lock`
+- R `renv.lock` - use `renv` package
+
+Don't write your own dependency management.
 
 # Signposting
 
