@@ -72,6 +72,10 @@ Take initiative & responsibility. Think long term.
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">THRILLED by this announcement by the Human Gene Nomenclature Committee. <a href="https://t.co/BqLIOMm69d">pic.twitter.com/BqLIOMm69d</a></p>&mdash; Janna Hutz (@jannahutz) <a href="https://twitter.com/jannahutz/status/1290666010228514824?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 But good for data viewing / entry, sometimes, perhaps...
 
+# Excel (2)
+
+
+
 # Databases
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> Entering via a database management system (e.g., Access, Filemaker) can make entry easier &amp; help prevent data entry errors <a href="https://twitter.com/tpoi">@tpoi</a></p>&mdash; Ethan White (@ethanwhite) <a href="https://twitter.com/ethanwhite/status/556119480493813760">January 16, 2015</a></blockquote>
@@ -176,6 +180,9 @@ Use good null values, missing values are a fact of life:
 - version controlled
 - easily shareable
 - works with other apps (eg googledrive, github)
+- no command line
+- DOIs
+- pre-registartion
 
 # Backup: Github
 
