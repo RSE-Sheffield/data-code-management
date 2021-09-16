@@ -182,7 +182,7 @@ Use good null values, missing values are a fact of life:
 - works with other apps (eg googledrive, github)
 - no command line
 - DOIs
-- pre-registartion
+- pre-registration
 
 # Backup: Github
 
