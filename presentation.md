@@ -33,6 +33,12 @@ Practical advice on:
 * Data management
 * File naming
 
+# About you
+
+> What operating system(s) do you use?
+
+> What programming language(s) do you use?
+
 <!--MAJOR SECTION-->
 
 # Data Management
@@ -395,6 +401,58 @@ Use the **ISO 8601** standard for dates: `YYYY-MM-DD`
 <!--MAJOR SECTION-->
 
 # "Projects"
+
+Where shall I put my data?
+
+# File systems
+
+* **Linux / MacOS** - home folder
+* **Windows** - documents folder
+
+# A project folder
+
+```{filesystem}
+myproject/
+|
+├── 01_data/
+|   ├── 01_raw/
+|   ├── 02_working/
+|   └── 03_clean/
+|
+├── 02_scripts/
+|
+├── 03_charts/
+|
+├── 04_paper/
+|
+└── 05_presentation/
+```
+
+# `R` (`rrtools`)
+
+```{filesystem}
+analysis/
+|
+├── paper/
+│   ├── paper.Rmd       # this is the main document to edit
+│   └── references.bib  # this contains the reference list information
+│
+├── figures/            # location of the figures produced by the Rmd
+|
+├── data/
+│   ├── raw_data/       # data obtained from elsewhere
+│   └── derived_data/   # data generated during the analysis
+|
+└── templates
+    ├── journal-of-archaeological-science.csl
+    |                   # this sets the style of citations & reference list
+    ├── template.docx   # used to style the output of the paper.Rmd
+    └── template.Rmd
+```
+
+# A project folder
+
+
 
 <!--MAJOR SECTION-->
 
