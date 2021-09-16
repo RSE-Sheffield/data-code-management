@@ -53,7 +53,7 @@ Practical advice on:
 
 # It's OK to ask for help
 
-Some years ago, Tom Webb asked for advice on Twitter. Some of the resulting conversation is included in this presentation...
+Some years ago, **Tom Webb** (@tomjwebb) asked for advice on Twitter. Some of the resulting conversation is included in this presentation...
 
 # Own your data
 
