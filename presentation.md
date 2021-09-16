@@ -1,9 +1,7 @@
-# Data and file management in practise
+# Data and code management in practise
 
 Robert Turner, University of Sheffield RSE Team
 September, 2021
-
-<title>Data and code management in practise</title>
 
 <style>
     .reveal h1 { font-size: 2em; }
