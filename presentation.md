@@ -467,6 +467,11 @@ Good to include:
 
 Don't write your own dependency management.
 
+# Follow conventions...
+
+- ...of your programming language.
+- ...of your research area.
+
 # Signposting
 
 - [rrtools](https://github.com/benmarwick/rrtools)
