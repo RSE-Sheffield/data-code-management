@@ -268,7 +268,7 @@ is a **glob**.
 
 # Search using Mac OS Finder
 
-![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/plasmid_mac_os_search.png){ height=320px }
+![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/plasmid_mac_os_search.png){ height=350px }
 
 # Delimit information with punctuation
 
