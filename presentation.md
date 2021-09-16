@@ -425,7 +425,11 @@ myproject/
 |
 ├── 04_paper/
 |
-└── 05_presentation/
+├── 05_presentation/
+|
+├── readme.md
+|
+└── license.md
 ```
 
 # `R` (`rrtools`)
@@ -450,9 +454,10 @@ analysis/
     └── template.Rmd
 ```
 
-# A project folder
+# Signposting
 
-
+- [rrtools](https://github.com/benmarwick/rrtools)
+- [rrpython](https://github.com/RSE-Sheffield/rrpython) (experimental - feedback welcome)
 
 <!--MAJOR SECTION-->
 
