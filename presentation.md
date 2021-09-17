@@ -518,4 +518,13 @@ Don't write your own dependency management.
 
 <!--MAJOR SECTION-->
 
+# More resources: The Turing Way
+
+A lightly opinionated guide to reproducible data science
+[https://the-turing-way.netlify.com](https://the-turing-way.netlify.com)
+
+[https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
+
 # Summary
+
+* 
