@@ -160,9 +160,9 @@ Use good null values, missing values are a fact of life:
 
 #
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> don&#39;t, not even with a barge pole, not for one second, touch or otherwise edit the raw data files. Do any manipulations in script</p>&mdash; Gavin Simpson (@ucfagls) <a href="https://twitter.com/ucfagls/status/556107371634634755">January 16, 2015</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> don&#39;t, not even with a barge pole, not for one second, touch or otherwise edit the raw data files. Do any manipulations in script</p>&mdash; Gavin Simpson (@ucfagls) <a href="https://twitter.com/ucfagls/status/556107371634634755">January 16, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> <a href="https://twitter.com/srsupp">@srsupp</a> Keep one or a few good master data files (per data collection of interest), and code your formatting with good annotation.</p>&mdash; Desiree Narango (@DLNarango) <a href="https://twitter.com/DLNarango/status/556128407445323778">January 16, 2015</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> <a href="https://twitter.com/srsupp">@srsupp</a> Keep one or a few good master data files (per data collection of interest), and code your formatting with good annotation.</p>&mdash; Desiree Narango (@DLNarango) <a href="https://twitter.com/DLNarango/status/556128407445323778">January 16, 2015</a></blockquote>
 
 # Data security
 
@@ -507,16 +507,25 @@ Don't write your own dependency management.
 - ...of your programming language.
 - ...of your research area.
 
-# Metadata
-
-
-
 # Signposting
 
 - [rrtools](https://github.com/benmarwick/rrtools)
 - [rrpython](https://github.com/RSE-Sheffield/rrpython) (experimental - feedback welcome)
+# Metadata
 
-<!--MAJOR SECTION-->
+<blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> I see tons of spreadsheets that i don&#39;t understand anything (or the stduent), making it really hard to share.</p>&mdash; Erika Berenguer (@Erika_Berenguer) <a href="https://twitter.com/Erika_Berenguer/status/556111838715580417">January 16, 2015</a></blockquote>
+
+# What is metadata?
+
+*"Information that describes, explains, locates, or in some way makes it easier to find, access, and use a resource (in this case, data)."*
+
+> Can you think of any examples?
+
+# Types of metadata
+
+- **Descriptive** enables identification, location and retrieval of data, often includes use of controlled vocabularies for classification and indexing.
+- **Technical** describes the technical processes used to produce, or required to use a digital data object.
+- **Administrative** used to manage administrative aspects of the digital object e.g. intellectual property rights and acquisition.
 
 # More resources: The Turing Way
 
