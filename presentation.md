@@ -24,7 +24,27 @@ Mix of software engineering and research experience.
 
 13 RSEs, 35 projects / year worth ~£11m total
 
-# Motivation
+# Why are we here?
+
+# Make life easier
+
+Research is hard, let's not make it harder.
+
+# Reproducibility
+
+![](images/false_findings.png)
+
+*PLoS Medicine*
+
+# Covid models
+
+![](images/covid.png)
+
+# FAIR Priniciples
+
+![](https://the-turing-way.netlify.app/_images/fair-principles.jpg)
+
+The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.¶
 
 # In this session...
 
@@ -475,7 +495,7 @@ analysis/
 Good to include:
 
 - Python `requirements.txt`, `environment.yml` etc.
-- Matlab `.prj` file (`xml`)
+- Matlab `.prj` file (`xml`) [question for Mathworks](https://uk.mathworks.com/matlabcentral/answers/1455264-how-does-one-best-capture-dependency-versions-for-a-matlab-project-please)
 - R `renv.lock` - use `renv` package
 
 Don't write your own dependency management.
