@@ -52,10 +52,14 @@ The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence
 
 Practical advice on:
 
+::: incremental
+
 * Data file management
 * File naming
 * "Project" folders
 * Metadata
+
+:::
 
 # About you
 
@@ -69,9 +73,13 @@ Practical advice on:
 
 # Data Management Plan
 
+::: incremental
+
 * Start early. [Make an RDM](https://www.sheffield.ac.uk/library/rdm/dmp) plan before collecting data.
 * Anticipate data products as part of your thesis outputs.
 * Think about what technologies to use.
+
+:::
 
 # It's OK to ask for help
 
@@ -130,7 +138,7 @@ Have a look at the Carpentries [Databases and SQL lesson](https://swcarpentry.gi
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> It has to be interoperability/openness - can I read your data with whatever I use, without having to convert it?</p>&mdash; Paul Swaddle (@paul_swaddle) <a href="https://twitter.com/paul_swaddle/status/556148166270406656">January 16, 2015</a></blockquote>
 
-**more unusual formats will need instructions on use.**
+**More unusual formats will need instructions on use.**
 
 # Ensure data is machine readable
 
@@ -231,10 +239,14 @@ Use good null values, missing values are a fact of life:
 
 # Let's face it...
 
+::: incremental
+
 - There are going to be files
 - **LOTS** of files
 - The files will **change over time**
 - The files will **have relationships to each other**
+
+:::
 
 # It'll probably get complicated
 
@@ -242,12 +254,15 @@ Use good null values, missing values are a fact of life:
 
 # **File organization** and **naming** is a mighty weapon against chaos
 
+::: incremental
+
 - Make a file's **name** and **location** ***VERY INFORMATIVE*** about:
     - what it is, 
     - why it exists, 
     - how it relates to other things
-
 - The more things are **self-explanatory**, the better.
+
+:::
 
 # What works, what doesn't?
 
@@ -277,17 +292,24 @@ fig02_histogram-talk-attendance.png
 
 # Three principles for good (file) names
 
+::: incremental
+
 1. Machine readable
 2. Human readable
 3. Play well with default ordering
 
+:::
+
 # Machine readable
+
+::: incremental
 
 - **Regular expression and globbing friendly**
   - Avoid spaces, punctuation, accented characters, case sensitivity
-
 - **Easy to compute on**
   - Deliberate use of delimiters
+
+:::
 
 # Filtering and search through [Globbing](http://searchsecurity.techtarget.com/definition/globbing)
 
@@ -339,21 +361,19 @@ write.csv(df, paste("variable", res, month, sep ="_"))
 df <- read.csv(paste("variable", res, month, sep ="_"))
 ```
 
-# Recap: machine readable
+# Machine readable means:
+
+::: incremental
 
 - Easy to search for files later
 - Easy to filter file lists based on names
 - Easy to extract info from file names, e.g. by splitting
 
-# New to regular expressions and globbing? be kind to yourself and avoid
-
-- Spaces in file names
-- Punctuation
-- Accented characters
+:::
 
 # Human readable
 
-- Name contains info on content
+- Comprehensible by people
 
 # Example: Which set of file(name)s do you want at 3 a.m. before a deadline?
 
@@ -365,7 +385,7 @@ df <- read.csv(paste("variable", res, month, sep ="_"))
 
 # Use slugs to link inputs, scripts & outputs
 
-## The scripts
+**The scripts**
 
 ~~~
 01_marshal-data.r
@@ -375,7 +395,7 @@ df <- read.csv(paste("variable", res, month, sep ="_"))
 90_limma-model-term-name-fiasco.r
 ~~~
 
-## The figures left behind
+**The figures left behind**
 
 ~~~
 02_pre-dea-filtering-preDE-filtering.png
@@ -387,7 +407,7 @@ df <- read.csv(paste("variable", res, month, sep ="_"))
 90_limma-model-term-name-fiasco-second-voom.png
 ~~~
 
-# Recap: Human readable
+# Human readable means:
 
 - **Easy to figure out what the heck something is, based on its name**
 
@@ -418,7 +438,6 @@ Use the **ISO 8601** standard for dates: `YYYY-MM-DD`
 ![](https://raw.githubusercontent.com/annakrystalli/rrresearchACCE20/master/slides/assets/img/logical_order.png)
 
 # Left pad other numbers with zeros
-
 
 **If you don’t left pad, you get this:**
 
