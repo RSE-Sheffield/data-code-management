@@ -576,6 +576,7 @@ Anything is better than nothing!
 - [dataspice](https://github.com/ropensci/dataspice) (`R`)
 - [JSON-LD](https://json-ld.org/)
 - [RO-Crate](https://www.researchobject.org/ro-crate/)
+- [Schema.org](schema.org)
 
 # More resources: The Turing Way
 
