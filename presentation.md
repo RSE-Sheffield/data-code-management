@@ -77,6 +77,10 @@ Practical advice on:
 
 Some years ago, **Tom Webb** (@tomjwebb) asked for advice on Twitter. Some of the resulting conversation is included in this presentation...
 
+#
+
+<blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> <a href="https://twitter.com/ScientificData">@ScientificData</a> Talk to their librarian for data management strategies <a href="https://twitter.com/hashtag/datainfolit?src=hash">#datainfolit</a></p>&mdash; Yasmeen Shorish (@yasmeen_azadi) <a href="https://twitter.com/yasmeen_azadi/status/556129700129800192">January 16, 2015</a></blockquote>
+
 # Own your data
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Act as though every short term study will become a long term one <a href="https://twitter.com/tomjwebb?ref_src=twsrc%5Etfw">@tomjwebb</a>. Needs to be reproducible in 3, 20, 100 yrs</p>&mdash; Oceans Initiative (@oceansresearch) <a href="https://twitter.com/oceansresearch/status/556107891610894337?ref_src=twsrc%5Etfw">January 16, 2015</a></blockquote>
@@ -527,6 +531,29 @@ Don't write your own dependency management.
 - **Technical** describes the technical processes used to produce, or required to use a digital data object.
 - **Administrative** used to manage administrative aspects of the digital object e.g. intellectual property rights and acquisition.
 
+# Elements of metadata
+
+- **Structured data files:** readable by machines and humans, accessible through the web
+- **Controlled vocabularies:** allows for connectivity of data (Dublin Core, NERC, re3data.org)
+
+# KEY TO SEARCH FUNCTION
+
+- By structuring & adhering to controlled vocabularies, data can be combined, accessed and searched!
+- Different communities develop different standards which define both the structure and content of metadata
+
+# Storing metadata
+
+Anything is better than nothing!
+
+- `readme.md` - not machine readable
+- `json`, `yml`, `xml` - can potentially be human and machine readable
+
+# Signposting
+
+- [dataspice](https://github.com/ropensci/dataspice) (`R`)
+- [JSON-LD](https://json-ld.org/)
+- [RO-Crate](https://www.researchobject.org/ro-crate/)
+
 # More resources: The Turing Way
 
 A lightly opinionated guide to reproducible data science
@@ -536,4 +563,8 @@ A lightly opinionated guide to reproducible data science
 
 # Summary
 
-* 
+- Have a Research Data Management Plan.
+- Your data is a valuable research output!
+- Human and machine readability.
+- Help your future self, and others.
+
