@@ -361,7 +361,7 @@ write.csv(df, paste("variable", res, month, sep ="_"))
 df <- read.csv(paste("variable", res, month, sep ="_"))
 ```
 
-# Machine readable means:
+# If it's machine readable it's:
 
 ::: incremental
 
@@ -407,9 +407,9 @@ df <- read.csv(paste("variable", res, month, sep ="_"))
 90_limma-model-term-name-fiasco-second-voom.png
 ~~~
 
-# Human readable means:
+# If it's human readable it's:
 
-- **Easy to figure out what the heck something is, based on its name**
+- **easy to figure out what the heck something is, based on its name!**
 
 # Play well with default ordering
 
