@@ -36,7 +36,7 @@ Research is hard, let's not make it harder.
 
 *PLoS Medicine*
 
-> Is this true?
+> Are most published research findings false?
 
 # Covid models
 
