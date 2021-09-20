@@ -138,7 +138,7 @@ Have a look at the Carpentries [Databases and SQL lesson](https://swcarpentry.gi
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tomjwebb">@tomjwebb</a> It has to be interoperability/openness - can I read your data with whatever I use, without having to convert it?</p>&mdash; Paul Swaddle (@paul_swaddle) <a href="https://twitter.com/paul_swaddle/status/556148166270406656">January 16, 2015</a></blockquote>
 
-**More unusual formats will need instructions on use.**
+> What file formats do you need to work with?
 
 # Ensure data is machine readable
 
