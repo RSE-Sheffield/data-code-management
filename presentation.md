@@ -547,7 +547,7 @@ Don't write your own dependency management.
 
 *"Information that describes, explains, locates, or in some way makes it easier to find, access, and use a resource (in this case, data)."*
 
-> Can you think of any examples?
+> Can you think of any examples of metadata?
 
 # Types of metadata
 
