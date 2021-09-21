@@ -47,7 +47,7 @@ Research is hard, let's not make it harder.
 
 ![](images/false_findings.png)
 
-*PLoS Medicine*
+*PLoS Medicine, 2005*
 
 > Are most published research findings false?
 
