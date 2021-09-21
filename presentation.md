@@ -8,6 +8,19 @@ September, 2021
 </style>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+# In this session...
+
+Practical advice on:
+
+::: incremental
+
+* Data file management
+* File naming
+* "Project" folders
+* Metadata
+
+:::
+
 # Acknowledgements
 
 Heavily based on [Reproducible Research Data and Project Management in R](https://github.com/annakrystalli/rrresearchACCE20) by Anna Krystalli, [naming things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf) by Jenny Bryan and [Methods in Research Software Engineering](https://github.com/davidwilby/ResearchSoftwareMethods) by David Wilby.
@@ -47,19 +60,6 @@ Research is hard, let's not make it harder.
 ![](https://the-turing-way.netlify.app/_images/fair-principles.jpg){ height=300px }
 
 The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
-
-# In this session...
-
-Practical advice on:
-
-::: incremental
-
-* Data file management
-* File naming
-* "Project" folders
-* Metadata
-
-:::
 
 # About you
 
