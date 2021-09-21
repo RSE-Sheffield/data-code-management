@@ -1,6 +1,6 @@
 # Data and code management in research practise
 
-Robert Turner, University of Sheffield RSE Team
+Robert (Bob) Turner, University of Sheffield RSE Team
 September, 2021
 
 <style>
